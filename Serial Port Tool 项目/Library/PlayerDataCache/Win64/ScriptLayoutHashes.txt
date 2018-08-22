@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/SerialPortTool/Serial Port.exe
+C:/Users/hasee/Documents/GitHub/SerialPortTool/SerialPortTool导出/Serial Port.exe
 SceneListBegin?
 Assets/Scenes/New Scene.unity
 SceneListEnd?
